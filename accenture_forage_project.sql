@@ -1,3 +1,4 @@
+-- cleaning the three different tables by removing unecessary columns, missing values and repetitions.  
 select * 
 from reaction_types;
 
