@@ -12,9 +12,12 @@ Conducted a thorough analysis of clients data to optimise customer retention str
 performing content categories on the Social Buzz app to increase customer retention and engagement by 10%.
 
 #### Key Responsibilities:
-• Data collection from various sources, via Social Buzz’ databases, processing a dataset of about 25,000 rows. 
+• Data collection from various sources, via Social Buzz’ databases, processing a dataset of about 25,000 rows.
+
 • Data cleaning and modelling using SQL and MS Excel to extract important information required for analysis. 
+
 • Created visually appealing and comprehensive visualisations of the insights found from analysis.
+
 • Presented findings to the stake holders and entire project team to drive business proceedings moving forward.
 
 #### Methodology/Tools Used: 
@@ -22,4 +25,5 @@ SQL, MS Excel, Power BI
 
 #### Results Achieved:
 • Successfully increased ad revenue by 15% within six months of implementing the new strategies.
+
 • Increased customer engagement and purchase frequency among the identified top categories.
