@@ -5,6 +5,8 @@ Hello, I'm Joy, a data enthusiast with a passion for transforming raw informatio
 ## Projects
 ### Social Media Content Analysis
 
+https://github.com/jodana4/Data-Analyst-Portfolio/blob/655034d0ccf4e538b2b01c68dcec758a1b23f729/accenture_forage_project.sql
+
 #### Project Description:
 Conducted a thorough analysis of clients data to optimise customer retention strategies. The key goal was to identify the top
 performing content categories on the Social Buzz app to increase customer retention and engagement by 10%.
